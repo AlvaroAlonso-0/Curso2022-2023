@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "C:/Users/USUARIO/Desktop/semanticWeb/practica_grupal/Curso2022-2023/HandsOn/Group02/app/geosparqlsite/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "C:/Users/USUARIO/Desktop/semanticWeb/practica_grupal/Curso2022-2023/HandsOn/Group02/app/geosparqlsite/target/flow-frontend",
+  "staticOutput": "C:/Users/USUARIO/Desktop/semanticWeb/practica_grupal/Curso2022-2023/HandsOn/Group02/app/geosparqlsite/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "C:\\Users\\USUARIO\\Desktop\\semanticWeb\\practica_grupal\\Curso2022-2023\\HandsOn\\Group02\\app\\geosparqlsite\\target\\classes\\META-INF\\VAADIN\\webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "C:\\Users\\USUARIO\\Desktop\\semanticWeb\\practica_grupal\\Curso2022-2023\\HandsOn\\Group02\\app\\geosparqlsite\\target\\sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
